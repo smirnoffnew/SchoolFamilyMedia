@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smirnoffnew/SchoolFamilyMedia/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/smirnoffnew/SchoolFamilyMedia/static/js/main.f14ce61e.chunk.js",
+    "main.js.map": "/smirnoffnew/SchoolFamilyMedia/static/js/main.f14ce61e.chunk.js.map",
+    "runtime-main.js": "/smirnoffnew/SchoolFamilyMedia/static/js/runtime-main.d840564f.js",
+    "runtime-main.js.map": "/smirnoffnew/SchoolFamilyMedia/static/js/runtime-main.d840564f.js.map",
+    "static/js/2.7c0128a0.chunk.js": "/smirnoffnew/SchoolFamilyMedia/static/js/2.7c0128a0.chunk.js",
+    "static/js/2.7c0128a0.chunk.js.map": "/smirnoffnew/SchoolFamilyMedia/static/js/2.7c0128a0.chunk.js.map",
+    "index.html": "/smirnoffnew/SchoolFamilyMedia/index.html",
+    "precache-manifest.992744f3697cb0e17c94e4f14bb2fe75.js": "/smirnoffnew/SchoolFamilyMedia/precache-manifest.992744f3697cb0e17c94e4f14bb2fe75.js",
+    "service-worker.js": "/smirnoffnew/SchoolFamilyMedia/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/smirnoffnew/SchoolFamilyMedia/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7c0128a0.chunk.js.LICENSE.txt": "/smirnoffnew/SchoolFamilyMedia/static/js/2.7c0128a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d840564f.js",
+    "static/js/2.7c0128a0.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f14ce61e.chunk.js"
+  ]
+}
