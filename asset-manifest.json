@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/smirnoffnew/SchoolFamilyMedia/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/smirnoffnew/SchoolFamilyMedia/static/js/main.f14ce61e.chunk.js",
-    "main.js.map": "/smirnoffnew/SchoolFamilyMedia/static/js/main.f14ce61e.chunk.js.map",
-    "runtime-main.js": "/smirnoffnew/SchoolFamilyMedia/static/js/runtime-main.d840564f.js",
-    "runtime-main.js.map": "/smirnoffnew/SchoolFamilyMedia/static/js/runtime-main.d840564f.js.map",
-    "static/js/2.7c0128a0.chunk.js": "/smirnoffnew/SchoolFamilyMedia/static/js/2.7c0128a0.chunk.js",
-    "static/js/2.7c0128a0.chunk.js.map": "/smirnoffnew/SchoolFamilyMedia/static/js/2.7c0128a0.chunk.js.map",
-    "index.html": "/smirnoffnew/SchoolFamilyMedia/index.html",
-    "precache-manifest.992744f3697cb0e17c94e4f14bb2fe75.js": "/smirnoffnew/SchoolFamilyMedia/precache-manifest.992744f3697cb0e17c94e4f14bb2fe75.js",
-    "service-worker.js": "/smirnoffnew/SchoolFamilyMedia/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/smirnoffnew/SchoolFamilyMedia/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.7c0128a0.chunk.js.LICENSE.txt": "/smirnoffnew/SchoolFamilyMedia/static/js/2.7c0128a0.chunk.js.LICENSE.txt"
+    "main.css": "/SchoolFamilyMedia/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/SchoolFamilyMedia/static/js/main.9555b6c4.chunk.js",
+    "main.js.map": "/SchoolFamilyMedia/static/js/main.9555b6c4.chunk.js.map",
+    "runtime-main.js": "/SchoolFamilyMedia/static/js/runtime-main.95bace16.js",
+    "runtime-main.js.map": "/SchoolFamilyMedia/static/js/runtime-main.95bace16.js.map",
+    "static/js/2.7c0128a0.chunk.js": "/SchoolFamilyMedia/static/js/2.7c0128a0.chunk.js",
+    "static/js/2.7c0128a0.chunk.js.map": "/SchoolFamilyMedia/static/js/2.7c0128a0.chunk.js.map",
+    "index.html": "/SchoolFamilyMedia/index.html",
+    "precache-manifest.9e07e4a64a10b8a7fe89f436648fb905.js": "/SchoolFamilyMedia/precache-manifest.9e07e4a64a10b8a7fe89f436648fb905.js",
+    "service-worker.js": "/SchoolFamilyMedia/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/SchoolFamilyMedia/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7c0128a0.chunk.js.LICENSE.txt": "/SchoolFamilyMedia/static/js/2.7c0128a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d840564f.js",
+    "static/js/runtime-main.95bace16.js",
     "static/js/2.7c0128a0.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.f14ce61e.chunk.js"
+    "static/js/main.9555b6c4.chunk.js"
   ]
 }
