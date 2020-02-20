@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import axios from "axios";
 
 const API_KEY = '210f1d1b-a5b6-48be-b30b-e3f44e2c6da7'
-const API_Domain = 'http://api.candidate.schoolfamilymedia.com'
+const API_Domain = 'https://api.candidate.schoolfamilymedia.com'
 
 const ObjectStateFactory = (data, isArray) => {
   const DataResult = {}
